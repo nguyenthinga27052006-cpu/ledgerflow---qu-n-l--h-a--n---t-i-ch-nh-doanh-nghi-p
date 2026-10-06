@@ -1,0 +1,6 @@
+{
+  "name": "LedgerFlow - Quản lý Hóa đơn & Tài chính Doanh nghiệp",
+  "description": "Nền tảng quản lý hóa đơn điện tử B2B, đối soát công nợ tức thời, phân tích tuổi nợ và kiểm toán tài chính chuẩn Thông tư 78/2021/TT-BTC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
